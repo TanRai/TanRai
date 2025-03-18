@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img src="https://komarev.com/ghpvc/?username=TanRai&label=Profile%20views&color=0e75b6&style=flat" alt="TanRai"/>
 🔭 I’m currently working on Socioloom<br>🌱 I’m currently learning Web Development, Data Structures, Algorithm<br>💬 Ask me about Web Development, Problem Solving<br>👀 I’m interested in All things Tech.
 
 
